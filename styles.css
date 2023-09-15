@@ -136,3 +136,55 @@ display: inline;
   margin-left: 5px;
 }
 
+.celu{
+  background-color: white;
+}
+
+.partner{
+margin-top: 128px;
+margin-left: 165px;
+}
+
+.iphone{
+position: absolute;
+margin-left: 153px;
+margin-top: 210px;
+z-index: 2;
+}
+
+.reach{
+ 
+margin-left: 850px;
+margin-top: 320px;
+}
+
+.vector3{
+position: absolute;
+margin-top: 270px;
+margin-left: 140px;
+z-index: 1;
+}
+
+.reach h1{
+color: #034D82;
+font-size: 36px;
+font-family: DM Sans;
+}
+
+.reach h3{
+color: #90A3B4;
+font-size: 16px;
+margin-top: 24px;
+font-family: DM Sans;
+}
+
+.reach p{
+color: #04AADD;
+font-size: 16px;
+margin-top: 36px;
+font-family: DM Sans;
+}
+
+.arrow3 {
+  margin-left: 10px;
+}
