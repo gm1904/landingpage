@@ -1,7 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,500&display=swap');
+
 body{
-  background-color: #1BB9E9;      
+  margin: 0;
+  padding: 0;
 }
-.home{
-    display: inline-block;
-    font-family: DM Sans;
+
+.encabezado{
+  background-color: #1BB9E9;  
 }
+
+.navigation{
+display: flex;
+justify-content: space-around;
+}
+
+.navigation li{
+display: inline;
+font-family: DM Sans;
+font-size: 14px;
+padding: 20px;
+}
+
+.navigation a{
+text-decoration: none;
+color: white;
+}
+
+.navigation ul{
+margin-top: 44px;   
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.flecha{
+margin-left: 4px;
+}
+
+.logo img{
+margin-top: 44px;
+width: 77,14px;
+height: 24;
+}
+
+
+.login {
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+background-image: linear-gradient(to left, #005490, #328BCB);
+color: #fff;
+border: none;
+border-radius: 5px;
+font-weight: 500  ;
+font-family: DM Sans;
+font-size: 14px;
+width: 95px;
+height: 38px;
+margin-top: 44px;   
+}
+
+.promo{
+width: 634.012px;
+height: 156px;
+margin-left: 140px;
+}
+
+.promo h3{
+color: #FFF;
+font-family: DM Sans;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 76px;
+  }
+  
+.circulo{
+margin-left: 643px;
+margin-top: -200px;
+}
+
+.graficos{
+margin-left: 550px;
+margin-top: -430px;;
+}
+
+.vector{
+margin-left: 140px;
+margin-top: -780px;
+}
+
+.descripcion{
+color: #FFF;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+width: 456.131px;
+height: 78px;
+margin-left: 140px;
+}
+
+.see {
+color: #00A8DB;
+text-align: center;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+width: 197px;
+height: 57px;
+margin-left: 140px;
+margin-bottom: 173px;
+border-radius: 5px;
+margin-top: 64px;
+border: none;
+}
+
+.boton-free{
+color: #FFF;
+font-family: DM Sans;
+font-size: 16px;
+margin-left: 42;
+}
+
+.get{
+  margin-left: 42px;
+
+}
+.see, .get{
+display: inline;
+}
+
+.arrow{
+  margin-left: 5px;
+}
+
