@@ -136,3 +136,116 @@ display: inline;
   margin-left: 5px;
 }
 
+.celu{
+  background-color: white;
+}
+
+.partner{
+margin-top: 128px;
+margin-left: 165px;
+}
+
+.iphone{
+position: absolute;
+margin-left: 153px;
+margin-top: 210px;
+z-index: 2;
+}
+
+.reach{
+margin-left: 850px;
+margin-top: 320px;
+}
+
+.vector3{
+position: absolute;
+margin-top: -500px;
+margin-left: 140px;
+z-index: 1;
+}
+
+.reach h1{
+color: #034D82;
+font-size: 36px;
+font-family: DM Sans;
+}
+
+.reach h3{
+color: #90A3B4;
+font-size: 16px;
+margin-top: 24px;
+font-family: DM Sans;
+}
+
+.reach p{
+color: #04AADD;
+font-size: 16px;
+margin-top: 36px;
+margin-bottom: 200px;
+font-family: DM Sans;
+}
+
+.arrow3 {
+  margin-left: 10px;
+}
+
+.device{
+  background-color: white;
+}
+
+.notebook{
+background-color: white;
+margin-top: 420px;
+margin-bottom: 163px;
+}
+
+.schedule{
+ float: left;
+ margin-left: 150px;
+ margin-right: 50px;
+}
+
+.schedule h2{
+color: #034D82;
+font-family: DM Sans;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 52px; /* 144.444% */
+letter-spacing: 0.3px;
+}
+
+.schedule p{
+color: #90A3B4;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 200% */
+letter-spacing: 0.3px;
+}
+
+.schedule ul{
+color: #90A3B4;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.3px;
+}
+
+.schedule li{
+list-style: none;
+margin: 6px;
+margin-left: -40px;
+}
+
+.schedule h1{
+color: #04AADD !important;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
