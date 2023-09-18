@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500&display=swap');
 
 body{
-  margin: 0;
-  padding: 0;
+margin: 0;
+padding: 0;
 }
 
 .encabezado{
-  background-color: #1BB9E9;  
+background-color: #1BB9E9;  
 }
 
 .navigation{
@@ -71,8 +71,8 @@ font-size: 64px;
 font-style: normal;
 font-weight: 700;
 line-height: 76px;
-  }
-  
+}
+
 .circulo{
 margin-left: 643px;
 margin-top: -200px;
@@ -125,7 +125,7 @@ margin-left: 42;
 }
 
 .get{
-  margin-left: 42px;
+margin-left: 42px;
 
 }
 .see, .get{
@@ -133,11 +133,11 @@ display: inline;
 }
 
 .arrow{
-  margin-left: 5px;
+margin-left: 5px;
 }
 
 .celu{
-  background-color: white;
+background-color: white;
 }
 
 .partner{
@@ -186,11 +186,11 @@ font-family: DM Sans;
 }
 
 .arrow3 {
-  margin-left: 10px;
+margin-left: 10px;
 }
 
 .device{
-  background-color: white;
+background-color: white;
 }
 
 .notebook{
@@ -200,9 +200,9 @@ margin-bottom: 163px;
 }
 
 .schedule{
- float: left;
- margin-left: 150px;
- margin-right: 50px;
+float: left;
+margin-left: 150px;
+margin-right: 50px;
 }
 
 .schedule h2{
@@ -265,7 +265,7 @@ line-height: 52px; /* 144.444% */
 letter-spacing: 0.3px;
 padding-top: 80px;
 }
-  
+
 .perfomance p{
 color: #8EA9C1;
 text-align: center;
@@ -335,7 +335,7 @@ line-height: 52px; /* 144.444% */
 letter-spacing: 0.3px;
 padding-top: 80px;
 }
-  
+
 .perfomance p{
 color: #8EA9C1;
 text-align: center;
@@ -391,45 +391,45 @@ letter-spacing: 0.2px;
 }
 
 .indo {
-  display: flex;
-  align-items: flex-start; /* Alinea los bloques verticalmente en la parte superior */ 
-  margin-top: 203px;
-  margin-left: 140px;
+display: flex;
+align-items: flex-start; /* Alinea los bloques verticalmente en la parte superior */ 
+margin-top: 203px;
+margin-left: 140px;
 }
 
 .estrellas{
-  margin-left: 403px;
+margin-left: 403px;
 }
 
 .comillas{
-  margin-left: -58px;
-  margin-bottom: 25px;
+margin-left: -58px;
+margin-bottom: 25px;
 }
 
 .stars{
-  margin-left: 10px;
-  margin-bottom: 25px;
+margin-left: 10px;
+margin-bottom: 25px;
 }
 
 .rubia{
- display: flex; 
- float: right;
- margin-right: 35px;
- margin-top: -100px;
+display: flex; 
+float: right;
+margin-right: 35px;
+margin-top: -100px;
 }
 
 .flechal{
-  margin-right: 90px;
-  margin-bottom: 18px;
+margin-right: 90px;
+margin-bottom: 18px;
 }
 
 .rubia-inf{
- margin-top: -21px;
- margin-left: 15px;
+margin-top: -21px;
+margin-left: 15px;
 }
 
 .rubia-inf p{
-  margin-top: -10px;
+margin-top: -10px;
 }
 
 .powertext{
@@ -487,39 +487,39 @@ margin-bottom: 176px;
 }
 
 .brand{
-  color: #FFF;
-  font-family: DM Sans;
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 44px; /* 122.222% */
-  letter-spacing: 0.3px;
-  
-  }
+color: #FFF;
+font-family: DM Sans;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 44px; /* 122.222% */
+letter-spacing: 0.3px;
 
-  .grow1{
-  width: 355px;
-  height: 132px;
-  margin-left: 70px;
-  margin-top: -350px;
-  }
+}
+
+.grow1{
+width: 355px;
+height: 132px;
+margin-left: 70px;
+margin-top: -350px;
+}
 
 .join{
-  color: #FFF;
-  font-family: DM Sans;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 32px; /* 228.571% */
-  letter-spacing: 0.3px;
-  margin-left: 70px; 
-  margin-top: -10px;
+color: #FFF;
+font-family: DM Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 228.571% */
+letter-spacing: 0.3px;
+margin-left: 70px; 
+margin-top: -10px;
 }
 
 .variosimg{
-  display: flex;
-  align-items: center;
-  margin-left: 70px;
+display: flex;
+align-items: center;
+margin-left: 70px;
 }
 
 .variosimg p{
@@ -553,6 +553,97 @@ border: none;
 }
 
 .ondas{
-  margin-left: 750px;
+margin-left: 750px;
 }
 
+.titulo{
+margin-top: 128px;
+margin-left: 150px;
+}
+
+.footer-flex{
+display: flex;
+background-color: #081315;
+}
+
+.justify-around{
+justify-content: space-around;
+}
+
+.pie{
+width: 1442px;
+height: 621px;
+background-color: #081315;
+color: white;
+}
+
+.pie-footer{
+padding-top: 128px;
+padding-left: 151px;
+padding-right: 151px;
+padding-bottom: 96px;
+}
+
+.item-center{
+align-items: center;
+}
+
+.flex-colum{
+flex-direction: column;
+}
+
+.p-top{ /*porque usas margin bottom y no Top, porque margin y no padding*/
+padding-top: 24px;
+margin-bottom: 81px;
+color: #FFF;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.redes-social{
+width: 42px;
+height: 40px;
+margin-left: 6px;
+}
+
+.m-top{
+  margin-top: 32px;
+}
+
+.p-redes{
+color: #D3D6D8;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+margin-top: 28px;
+}
+
+.footer-tittle{
+color: #FFF;
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal; 
+}
+
+.menu-redes{
+color: #D3D6D8;
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+list-style: none;
+padding: 0;
+margin-bottom: 25px;
+}
+
+.menu-ul{
+  padding: 0;
+}
